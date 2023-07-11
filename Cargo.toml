@@ -1,0 +1,10 @@
+[package]
+name = "command-line-rust"
+version = "0.1.0"
+edition = "2021"
+homepage = "https://github.com/kyclark/command-line-rust/tree/main/01_hello"
+
+[workspace]
+members = [
+"hello",
+]
